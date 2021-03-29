@@ -166,10 +166,10 @@ Wire Wire Line
 Wire Wire Line
 	2950 5550 2950 6150
 $Comp
-L Jumper:SolderJumper_2_Open WIFI_RESET
+L Jumper:SolderJumper_2_Open WIFI_RESET1
 U 1 1 605B2A13
 P 10200 2250
-F 0 "WIFI_RESET" H 10154 2318 50  0000 L CNN
+F 0 "WIFI_RESET1" H 10154 2318 50  0000 L CNN
 F 1 "SolderJumper_2_Open" V 10245 2318 50  0001 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 10200 2250 50  0001 C CNN
 F 3 "~" H 10200 2250 50  0001 C CNN
